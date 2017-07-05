@@ -9,7 +9,7 @@
 import UIKit
 import WebKit
 
-let localip = "120.92.50.210"
+let localip = ""
 class FirstViewController: UIViewController, WKUIDelegate, WKScriptMessageHandler {
     
     var webView: WKWebView!
